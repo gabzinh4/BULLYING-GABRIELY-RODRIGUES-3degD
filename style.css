@@ -2,7 +2,7 @@ body{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
+  background: #f2f2f2;
 }
 
 header{
@@ -13,7 +13,7 @@ header{
 }
 
 nav{
-  background-color: #333333;
+  background-color: #66CC;
   overflow: hidden;
 }
 
@@ -29,6 +29,6 @@ nav a{
 }
 
 nav a:hover{
-  background-color: #dddddd;
+  background-color: #06C;
   color: black;
 }
